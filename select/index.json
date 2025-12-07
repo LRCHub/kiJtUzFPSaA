@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おやすみTaxi (Sped Up)",
+  "base_artist": "MON7A",
+  "createdAt": "2025-12-07T05:45:16.004905Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみTaxi - Sped Up",
+      "artist": "MON7A",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみTaxi_-_Sped_Up_MON7A.txt"
+    }
+  ]
+}
